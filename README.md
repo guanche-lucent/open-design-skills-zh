@@ -12,6 +12,14 @@
 
 基于 OpenDesign `open-design-v0.24.1` 整理的社区导航，保留上游正文与许可。不是官方项目，也不是全量汉化或全量可运行的承诺。
 
+## 来源与贡献边界
+
+**本仓库由 [guanche-lucent](https://github.com/guanche-lucent) 整理维护，原技能由 [OpenDesign](https://github.com/nexu-io/open-design) 及各上游作者提供。** 我的工作是中文导航、案例整理、有限验证与发布维护，并非全部技能的原创开发。
+
+Web Clone 技能保留 Jane（@xiaoerzhan / 小耳）的原署名；东京案例使用 Three.js 代码与 Glen Fox 的 Littlest Tokyo 模型。Notion Help、Orbit 和 Primer 是视觉参考来源，不是本仓库参与者或背书方。
+
+[作者与致谢](CREDITS.md) · [完整第三方来源](NOTICE) · [署名与许可文件核查](docs/audit/attribution-review.md)
+
 <!-- stats:start -->
 共 **163 项**：**77 项附带正文**、**41 项仅简介**、**45 项仅外链**。其中 **3 项完成当前会话显式读取试用**；其余未运行验证。自动发现与跨平台执行另行验证。
 <!-- stats:end -->

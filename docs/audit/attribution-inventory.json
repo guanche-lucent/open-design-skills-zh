@@ -1,0 +1,1572 @@
+{
+  "date": "2026-10-13",
+  "scope": "All 163 catalog entries: local license-file and NOTICE inventory, not full legal clearance or full upstream license verification",
+  "items": [
+    {
+      "id": "agent-browser",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "output-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/output-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "article-magazine",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "doc",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "doc-kami-parchment",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "docx",
+      "content_form": "external_link",
+      "declared_license": "Proprietary (© Anthropic, all rights reserved)",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "minimax-docx",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "minimax-pdf",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "pdf",
+      "content_form": "external_link",
+      "declared_license": "Proprietary (© Anthropic, all rights reserved)",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "release-notes-one-pager",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "resume-modern",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "writing-guidelines",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/writing-guidelines/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "artifacts-builder",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "faq-page",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frontend-design",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [
+        "skills/prototype/frontend-design/LICENSE.txt"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frontend-dev",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "login-flow",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "web-artifacts-builder",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "brutalist-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/brutalist-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "emil-design-eng",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/emil-design-eng/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gpt-tasteskill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/gpt-tasteskill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "impeccable-design-polish",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "minimalist-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/minimalist-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "soft-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/soft-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "taste-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/taste-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "taste-skill-v1",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/taste-skill-v1/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "card-twitter",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "card-xiaohongshu",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "poster-hero",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "social-reddit-card",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "social-spotify-card",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "social-x-post-card",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "d3-visualization",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "data-report",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "hand-drawn-diagrams",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "research-decision-room",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "emilkowalski-motion",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "flutter-animating-apps",
+      "content_form": "stub",
+      "declared_license": "BSD-3-Clause",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-core",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-frameworks",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-performance",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-plugins",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-react",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-scrolltrigger",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-timeline",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gsap-utils",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "review-animations",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/review-animations/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "shader-dev",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "threejs",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "image-to-code-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/image-to-code-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "redesign-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/redesign-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "web-clone",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/prototype/web-clone/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "mockup-device-3d",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "ad-creative",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "competitive-ads-extractor",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "copywriting",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "domain-name-brainstormer",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "marketing-psychology",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "paywall-upgrade-cro",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "apple-hig",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "brand-guidelines",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "color-expert",
+      "content_form": "stub",
+      "declared_license": "CC-BY-4.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "platform-design",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "shadcn-ui",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "swiftui-design",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "theme-factory",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "ui-skills",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "ui-ux-pro-max",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "web-design-guidelines",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/design-system/web-design-guidelines/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "wpds",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "brainstorming",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "creative-director",
+      "content_form": "stub",
+      "declared_license": "CC-BY-4.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "design-consultation",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "design-review",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frontend-skill",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "plan-design-review",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "design-brief",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "design-md",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "enhance-prompt",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "reference-design-contract",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "stitch-loop",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "stitch-skill",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/design-system/stitch-skill/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-code-connect-components",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-create-design-system-rules",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-create-new-file",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-generate-design",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-generate-library",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-implement-design",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "figma-use",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "algorithmic-art",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "canvas-design",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "hatch-pet",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [
+        "skills/image/hatch-pet/LICENSE.txt"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "slack-gif-creator",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "brandkit",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/image/brandkit/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "ecommerce-image-workflow",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "imagegen-frontend-mobile",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/image/imagegen-frontend-mobile/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "imagegen-frontend-web",
+      "content_form": "bundled_content",
+      "declared_license": "MIT",
+      "local_license_files": [
+        "skills/image/imagegen-frontend-web/LICENSE"
+      ],
+      "notice_mentions_id": true,
+      "status": "有目录内许可文件；未据此认定所有资源已合规",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-3d",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-generate",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-image-edit",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-realtime",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-train",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-tryon",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "gif-sticker-maker",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "imagegen",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "imagen",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "pixelbin-media",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "replicate",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "venice-image-edit",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "venice-image-generate",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-restore",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-upscale",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-vision",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "image-enhancer",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "full-page-screenshot",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "screenshot",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "screenshots-marketing",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-kling-o3",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-lip-sync",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "fal-video-edit",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "sora",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "venice-video",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-data-chart-nyt",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-flowchart-sticky",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-glitch-title",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-light-leak-cinema",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-liquid-bg-hero",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-logo-outro",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frame-macos-notification",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "remotion",
+      "content_form": "external_link",
+      "declared_license": "Remotion License（自定义，部分公司需付费授权）",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "vfx-text-cursor",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "video-hyperframes",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "video-downloader",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "youtube-clipper",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "deck-guizang-editorial",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "deck-open-slide-canvas",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "deck-swiss-international",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "frontend-slides",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "ppt-keynote",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "nanobanana-ppt",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "pptx",
+      "content_form": "external_link",
+      "declared_license": "Proprietary (© Anthropic, all rights reserved)",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "pptx-generator",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "slides",
+      "content_form": "external_link",
+      "declared_license": "unknown",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "仅外链；未分发目标代码",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "8-bit-orbit-video-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "after-hours-editorial-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "swiss-user-research-video-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "weread-year-in-review-video-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "digits-fintech-swiss-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "editorial-burgundy-principles-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "html-ppt-retro-quarterly-review",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "swiss-creative-mode-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "field-notes-editorial-template",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "chat-motion-overlay",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "export-download-debugging",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "pptx-html-fidelity-audit",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "pr-feedback-quality-gate",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "library-curator",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "od-next-media-inputs",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "ai-music-album",
+      "content_form": "stub",
+      "declared_license": "CC0-1.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "venice-audio-music",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "speech",
+      "content_form": "stub",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "venice-audio-speech",
+      "content_form": "stub",
+      "declared_license": "MIT",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    },
+    {
+      "id": "brand-extract",
+      "content_form": "bundled_content",
+      "declared_license": "Apache-2.0",
+      "local_license_files": [],
+      "notice_mentions_id": true,
+      "status": "无目录内许可文件；需核对根许可/上游适用范围",
+      "upstream_verification": "inherited_not_reverified"
+    }
+  ],
+  "full_content_without_directory_license": [
+    "agent-browser",
+    "article-magazine",
+    "doc-kami-parchment",
+    "release-notes-one-pager",
+    "resume-modern",
+    "faq-page",
+    "login-flow",
+    "impeccable-design-polish",
+    "card-twitter",
+    "card-xiaohongshu",
+    "poster-hero",
+    "social-reddit-card",
+    "social-spotify-card",
+    "social-x-post-card",
+    "data-report",
+    "research-decision-room",
+    "gsap-core",
+    "gsap-frameworks",
+    "gsap-performance",
+    "gsap-plugins",
+    "gsap-react",
+    "gsap-scrolltrigger",
+    "gsap-timeline",
+    "gsap-utils",
+    "mockup-device-3d",
+    "design-brief",
+    "reference-design-contract",
+    "ecommerce-image-workflow",
+    "frame-data-chart-nyt",
+    "frame-flowchart-sticky",
+    "frame-glitch-title",
+    "frame-light-leak-cinema",
+    "frame-liquid-bg-hero",
+    "frame-logo-outro",
+    "frame-macos-notification",
+    "vfx-text-cursor",
+    "video-hyperframes",
+    "deck-guizang-editorial",
+    "deck-open-slide-canvas",
+    "deck-swiss-international",
+    "ppt-keynote",
+    "8-bit-orbit-video-template",
+    "after-hours-editorial-template",
+    "swiss-user-research-video-template",
+    "weread-year-in-review-video-template",
+    "digits-fintech-swiss-template",
+    "editorial-burgundy-principles-template",
+    "html-ppt-retro-quarterly-review",
+    "swiss-creative-mode-template",
+    "field-notes-editorial-template",
+    "chat-motion-overlay",
+    "export-download-debugging",
+    "pptx-html-fidelity-audit",
+    "pr-feedback-quality-gate",
+    "library-curator",
+    "od-next-media-inputs",
+    "brand-extract"
+  ]
+}
