@@ -4,5 +4,9 @@
   "clean_extract_install": "3/3 passed",
   "installer_tests": "7/7 passed",
   "catalog": "passed",
-  "remote_publish": "pending GitHub authorization"
+  "remote_publish": "verified 2026-10-13 Asia/Shanghai",
+  "pages": "https://guanche-lucent.github.io/open-design-skills-zh/",
+  "release_download_sha256_match": true,
+  "live_gallery_images": 4,
+  "live_tokyo_scene": "visually confirmed"
 }
