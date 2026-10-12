@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0-preview.2",
+  "sha256": "e71153fcba9942115bc96b79b2dbb068400a1c9223dd175cd67b9893fc28c67a",
+  "clean_extract_install": "3/3 passed",
+  "installer_tests": "7/7 passed",
+  "catalog": "passed",
+  "remote_publish": "pending GitHub authorization"
+}
