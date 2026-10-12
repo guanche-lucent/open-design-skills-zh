@@ -1,0 +1,17 @@
+{
+  "beforeMobile": {
+    "width": 390,
+    "overflow": false,
+    "role": "产品设计师"
+  },
+  "afterDesktop": {
+    "width": 1440,
+    "overflow": false,
+    "role": "交互设计师",
+    "newProject": true
+  },
+  "afterMobile": {
+    "width": 390,
+    "overflow": false
+  }
+}

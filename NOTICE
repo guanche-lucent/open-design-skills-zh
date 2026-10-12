@@ -1,0 +1,175 @@
+open-design-skills-zh
+Copyright 2026 open-design-skills-zh contributors
+
+This product packages skills from OpenDesign (https://github.com/nexu-io/open-design),
+tag open-design-v0.24.1, Copyright nexu-io, licensed under the Apache License 2.0.
+Skill files under skills/ are redistributed verbatim; each retains its own license.
+
+Third-party skill sources included in this package:
+
+- skills/template/8-bit-orbit-video-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/design-system/ad-creative: license MIT; source https://github.com/coreyhaines31/marketingskills; author/holder: coreyhaines31/marketingskills; via OpenDesign open-design-v0.24.1
+- skills/template/after-hours-editorial-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/agent-browser: license Apache-2.0; source https://github.com/vercel-labs/agent-browser/blob/main/skills/agent-browser/SKILL.md; author/holder: vercel-labs/agent-browser; via OpenDesign open-design-v0.24.1
+- skills/audio/ai-music-album: license CC0-1.0; source https://github.com/bitwize-music-studio/claude-ai-music-skills; author/holder: bitwize-music-studio/claude-ai-music-skills; via OpenDesign open-design-v0.24.1
+- skills/image/algorithmic-art: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/algorithmic-art; author/holder: Anthropic; via OpenDesign open-design-v0.24.1
+- skills/design-system/apple-hig: license MIT; source https://github.com/raintree-technology/apple-hig-skills; author/holder: raintree-technology/apple-hig-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/article-magazine: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/design-system/brainstorming: license MIT; source https://github.com/obra/superpowers; author/holder: obra/superpowers; via OpenDesign open-design-v0.24.1
+- skills/design/brand-extract: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/design-system/brand-guidelines: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/brand-guidelines; author/holder: Anthropic; via OpenDesign open-design-v0.24.1
+- skills/image/brandkit: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/prototype/brutalist-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/image/canvas-design: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/canvas-design; author/holder: Anthropic; via OpenDesign open-design-v0.24.1
+- skills/prototype/card-twitter: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/card-xiaohongshu: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/utility/chat-motion-overlay: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/design-system/color-expert: license CC-BY-4.0; source https://github.com/meodai/skill.color-expert; author/holder: meodai/skill.color-expert; via OpenDesign open-design-v0.24.1
+- skills/design-system/copywriting: license MIT; source https://github.com/coreyhaines31/marketingskills; author/holder: coreyhaines31/marketingskills; via OpenDesign open-design-v0.24.1
+- skills/design-system/creative-director: license CC-BY-4.0; source https://github.com/smixs/creative-director-skill; author/holder: smixs/creative-director-skill; via OpenDesign open-design-v0.24.1
+- skills/prototype/d3-visualization: license MIT; source https://github.com/jiannanya/snow-d3/; author/holder: jiannanya/snow-d3; via OpenDesign open-design-v0.24.1
+- skills/prototype/data-report: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/deck/deck-guizang-editorial: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/deck/deck-open-slide-canvas: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/deck/deck-swiss-international: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/design-system/design-brief: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/design-system/design-consultation: license MIT; source https://github.com/garrytan/gstack; author/holder: garrytan/gstack; via OpenDesign open-design-v0.24.1
+- skills/design-system/design-review: license MIT; source https://github.com/garrytan/gstack; author/holder: garrytan/gstack; via OpenDesign open-design-v0.24.1
+- skills/template/digits-fintech-swiss-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/doc-kami-parchment: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/image/ecommerce-image-workflow: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/template/editorial-burgundy-principles-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/emil-design-eng: license MIT; source https://github.com/emilkowalski/skills; author/holder: 2026 Matt Pocock; via OpenDesign open-design-v0.24.1
+- skills/utility/export-download-debugging: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/faq-page: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/template/field-notes-editorial-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/flutter-animating-apps: license BSD-3-Clause; source https://github.com/flutter/skills; author/holder: flutter/skills; via OpenDesign open-design-v0.24.1
+- skills/video/frame-data-chart-nyt: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/frame-flowchart-sticky: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/frame-glitch-title: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/frame-light-leak-cinema: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/frame-liquid-bg-hero: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/frame-logo-outro: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/frame-macos-notification: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/frontend-design: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/frontend-design; author/holder: upstream: https://github.com/anthropics/skills/tree/main/skills/frontend-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/frontend-dev: license MIT; source https://github.com/MiniMax-AI/skills; author/holder: MiniMax-AI/skills; via OpenDesign open-design-v0.24.1
+- skills/deck/frontend-slides: license MIT; source https://github.com/zarazhangrui/frontend-slides; author/holder: zarazhangrui/frontend-slides; via OpenDesign open-design-v0.24.1
+- skills/image/gif-sticker-maker: license MIT; source https://github.com/MiniMax-AI/skills; author/holder: MiniMax-AI/skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gpt-tasteskill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-core: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-frameworks: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-performance: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-plugins: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-react: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-scrolltrigger: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-timeline: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/gsap-utils: license MIT; source https://github.com/greensock/gsap-skills; author/holder: greensock/gsap-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/hand-drawn-diagrams: license MIT; source https://github.com/muthuishere/hand-drawn-diagrams; author/holder: muthuishere/hand-drawn-diagrams; via OpenDesign open-design-v0.24.1
+- skills/image/hatch-pet: license Apache-2.0; source https://github.com/openai/skills/tree/main/skills/.curated/hatch-pet; author/holder: upstream: https://github.com/openai/skills/tree/main/skills/.curated/hatch-pet; via OpenDesign open-design-v0.24.1
+- skills/template/html-ppt-retro-quarterly-review: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/image-to-code-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/image/imagegen-frontend-mobile: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/image/imagegen-frontend-web: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/prototype/impeccable-design-polish: license Apache-2.0; source https://github.com/pbakaus/impeccable; author/holder: pbakaus/impeccable; via OpenDesign open-design-v0.24.1
+- skills/utility/library-curator: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/login-flow: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/design-system/marketing-psychology: license MIT; source https://github.com/coreyhaines31/marketingskills; author/holder: coreyhaines31/marketingskills; via OpenDesign open-design-v0.24.1
+- skills/prototype/minimalist-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/prototype/minimax-docx: license MIT; source https://github.com/MiniMax-AI/skills; author/holder: MiniMax-AI/skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/minimax-pdf: license MIT; source https://github.com/MiniMax-AI/skills; author/holder: MiniMax-AI/skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/mockup-device-3d: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/utility/od-next-media-inputs: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/output-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/design-system/paywall-upgrade-cro: license MIT; source https://github.com/coreyhaines31/marketingskills; author/holder: coreyhaines31/marketingskills; via OpenDesign open-design-v0.24.1
+- skills/design-system/plan-design-review: license MIT; source https://github.com/garrytan/gstack; author/holder: garrytan/gstack; via OpenDesign open-design-v0.24.1
+- skills/design-system/platform-design: license MIT; source https://github.com/ehmo/platform-design-skills; author/holder: ehmo/platform-design-skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/poster-hero: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/deck/ppt-keynote: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/deck/pptx-generator: license MIT; source https://github.com/MiniMax-AI/skills; author/holder: MiniMax-AI/skills; via OpenDesign open-design-v0.24.1
+- skills/utility/pptx-html-fidelity-audit: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/utility/pr-feedback-quality-gate: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/redesign-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/design-system/reference-design-contract: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/release-notes-one-pager: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/image/replicate: license Apache-2.0; source https://github.com/replicate/skills; author/holder: replicate/skills; via OpenDesign open-design-v0.24.1
+- skills/prototype/research-decision-room: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/resume-modern: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/review-animations: license MIT; source https://github.com/emilkowalski/skills; author/holder: 2026 Matt Pocock; via OpenDesign open-design-v0.24.1
+- skills/image/screenshot: license Apache-2.0; source https://github.com/openai/skills; author/holder: OpenAI; via OpenDesign open-design-v0.24.1
+- skills/prototype/shader-dev: license MIT; source https://github.com/MiniMax-AI/skills; author/holder: MiniMax-AI/skills; via OpenDesign open-design-v0.24.1
+- skills/image/slack-gif-creator: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator; author/holder: Anthropic; via OpenDesign open-design-v0.24.1
+- skills/prototype/social-reddit-card: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/social-spotify-card: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/social-x-post-card: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/soft-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/audio/speech: license Apache-2.0; source https://github.com/openai/skills; author/holder: OpenAI; via OpenDesign open-design-v0.24.1
+- skills/design-system/stitch-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/design-system/swiftui-design: license MIT; source https://github.com/wholiver/swiftui-design-skill; author/holder: wholiver/swiftui-design-skill; via OpenDesign open-design-v0.24.1
+- skills/template/swiss-creative-mode-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/template/swiss-user-research-video-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/taste-skill: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/prototype/taste-skill-v1: license MIT; source https://github.com/Leonxlnx/taste-skill; author/holder: 2026 Leonxlnx; via OpenDesign open-design-v0.24.1
+- skills/design-system/theme-factory: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/theme-factory; author/holder: Anthropic; via OpenDesign open-design-v0.24.1
+- skills/design-system/ui-skills: license MIT; source https://github.com/ibelick/ui-skills; author/holder: ibelick/ui-skills; via OpenDesign open-design-v0.24.1
+- skills/design-system/ui-ux-pro-max: license MIT; source https://github.com/nextlevelbuilder/ui-ux-pro-max-skill; author/holder: nextlevelbuilder/ui-ux-pro-max-skill; via OpenDesign open-design-v0.24.1
+- skills/audio/venice-audio-music: license MIT; source https://github.com/veniceai/skills; author/holder: veniceai/skills; via OpenDesign open-design-v0.24.1
+- skills/audio/venice-audio-speech: license MIT; source https://github.com/veniceai/skills; author/holder: veniceai/skills; via OpenDesign open-design-v0.24.1
+- skills/image/venice-image-edit: license MIT; source https://github.com/veniceai/skills; author/holder: veniceai/skills; via OpenDesign open-design-v0.24.1
+- skills/image/venice-image-generate: license MIT; source https://github.com/veniceai/skills; author/holder: veniceai/skills; via OpenDesign open-design-v0.24.1
+- skills/video/venice-video: license MIT; source https://github.com/veniceai/skills; author/holder: veniceai/skills; via OpenDesign open-design-v0.24.1
+- skills/video/vfx-text-cursor: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/video/video-hyperframes: license Apache-2.0; source https://github.com/nexu-io/html-anything; author/holder: nexu-io/html-anything; via OpenDesign open-design-v0.24.1
+- skills/prototype/web-artifacts-builder: license Apache-2.0; source https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder; author/holder: Anthropic; via OpenDesign open-design-v0.24.1
+- skills/prototype/web-clone: license MIT; source nexu-io/open-design (original); author/holder: 2026 Jane (@xiaoerzhan / 小耳); via OpenDesign open-design-v0.24.1
+- skills/design-system/web-design-guidelines: license MIT; source https://github.com/vercel-labs/web-interface-guidelines; author/holder: 2025 Vercel Labs; via OpenDesign open-design-v0.24.1
+- skills/template/weread-year-in-review-video-template: license Apache-2.0; source nexu-io/open-design (original); author/holder: nexu-io/open-design; via OpenDesign open-design-v0.24.1
+- skills/prototype/writing-guidelines: license MIT; source https://github.com/vercel-labs/writing-guidelines; author/holder: 2026 Vercel Labs; via OpenDesign open-design-v0.24.1
+- skills/video/youtube-clipper: license MIT; source https://github.com/op7418/Youtube-clipper-skill; author/holder: op7418/Youtube-clipper-skill; via OpenDesign open-design-v0.24.1
+
+Skills NOT included (license unclear or restrictive; link-only, see LICENSE-AUDIT.md):
+
+- artifacts-builder: unknown (https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder)
+- competitive-ads-extractor: unknown (https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)
+- design-md: unknown (https://github.com/google-labs-code/skills)
+- doc: unknown (https://github.com/openai/skills)
+- docx: Proprietary (© Anthropic, all rights reserved) (https://github.com/anthropics/skills/tree/main/skills/docx)
+- domain-name-brainstormer: unknown (https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer)
+- emilkowalski-motion: unknown (https://emilkowal.ski/skill)
+- enhance-prompt: unknown (https://github.com/google-labs-code/skills)
+- fal-3d: unknown (https://github.com/fal-ai-community/skills)
+- fal-generate: unknown (https://github.com/fal-ai-community/skills)
+- fal-image-edit: unknown (https://github.com/fal-ai-community/skills)
+- fal-kling-o3: unknown (https://github.com/fal-ai-community/skills)
+- fal-lip-sync: unknown (https://github.com/fal-ai-community/skills)
+- fal-realtime: unknown (https://github.com/fal-ai-community/skills)
+- fal-restore: unknown (https://github.com/fal-ai-community/skills)
+- fal-train: unknown (https://github.com/fal-ai-community/skills)
+- fal-tryon: unknown (https://github.com/fal-ai-community/skills)
+- fal-upscale: unknown (https://github.com/fal-ai-community/skills)
+- fal-video-edit: unknown (https://github.com/fal-ai-community/skills)
+- fal-vision: unknown (https://github.com/fal-ai-community/skills)
+- figma-code-connect-components: unknown (https://github.com/figma/skills)
+- figma-create-design-system-rules: unknown (https://github.com/figma/skills)
+- figma-create-new-file: unknown (https://github.com/figma/skills)
+- figma-generate-design: unknown (https://github.com/figma/skills)
+- figma-generate-library: unknown (https://github.com/figma/skills)
+- figma-implement-design: unknown (https://github.com/figma/skills)
+- figma-use: unknown (https://github.com/figma/skills)
+- frontend-skill: unknown (https://github.com/openai/skills)
+- full-page-screenshot: unknown (https://github.com/LewisLiu007/full-page-screenshot)
+- image-enhancer: unknown (https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)
+- imagegen: unknown (https://github.com/openai/skills)
+- imagen: unknown (https://github.com/sanjay3290/imagen)
+- nanobanana-ppt: unknown (https://github.com/op7418/NanoBanana-PPT-Skills)
+- pdf: Proprietary (© Anthropic, all rights reserved) (https://github.com/anthropics/skills/tree/main/skills/pdf)
+- pixelbin-media: unknown (https://github.com/pixelbin-dev/skills)
+- pptx: Proprietary (© Anthropic, all rights reserved) (https://github.com/anthropics/skills/tree/main/skills/pptx)
+- remotion: Remotion License（自定义，部分公司需付费授权） (https://github.com/remotion-dev/remotion)
+- screenshots-marketing: unknown (https://github.com/Shpigford/screenshots)
+- shadcn-ui: unknown (https://github.com/google-labs-code/skills)
+- slides: unknown (https://github.com/openai/skills)
+- sora: unknown (https://github.com/openai/skills)
+- stitch-loop: unknown (https://github.com/google-labs-code/skills)
+- threejs: unknown (https://github.com/CloudAI-X/threejs-skills)
+- video-downloader: unknown (https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader)
+- wpds: unknown (https://github.com/WordPress/skills)

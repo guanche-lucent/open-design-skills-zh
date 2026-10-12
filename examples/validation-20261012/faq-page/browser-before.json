@@ -1,0 +1,21 @@
+{
+  "initial": {
+    "count": "找到 12 个问题",
+    "overflow": false,
+    "items": 12
+  },
+  "search": {
+    "count": "找到 2 个问题",
+    "questions": [
+      "支持 Markdown 吗？",
+      "可以导出什么格式？"
+    ]
+  },
+  "combined": "找到 1 个问题",
+  "empty": true,
+  "keyboard": true,
+  "mobile": {
+    "width": 390,
+    "overflow": false
+  }
+}

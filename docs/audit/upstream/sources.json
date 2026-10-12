@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/nexu-io/open-design/open-design-v0.24.1/skills/README.md",
+    "saved": "skills-readme.txt",
+    "sha256": "7532cf9d5f52f2dbd0534853fb352162c8b416b5ac5625b0f5eb1939e9a666d5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nexu-io/open-design/open-design-v0.24.1/LICENSE",
+    "saved": "root-license.txt",
+    "sha256": "9d95806a26532623360eb84bb17d298f394b55ef73fb4c0796d99b4319b2b0da"
+  }
+]

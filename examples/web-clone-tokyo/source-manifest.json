@@ -1,0 +1,26 @@
+{
+  "origin": "Existing OpenDesign project routine-59f15782-0920-4b2e-b591-075b18e427b5",
+  "files": {
+    "preview.png": "c45c60dc6c36f5d544f621a531437092640af965eaf769a50caf018e26575f30",
+    "ATTRIBUTION.md": "14745ba50763a7f8ad85b7b70d73cd83fb69de7172c84d9d5033128a6ab5627c",
+    "tokyo-keyframes.html": "875c633959f64fa006ab357b4a6e79a13d68f9e3aec5557dc227394ceee5e6ad",
+    "source/index-original.html": "68dd0cf9d8dd135628bfe70a4f06f7d637d6b29c806af9beec2be701decf7106",
+    "source/THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
+    "source/main.css": "57bbd270f4befef0dc767537cd803c30cab549f84aac1bbe86c748520bdfc3fe",
+    "historical/CLONE_REPORT.md": "e60e0c02d7c64c656609ae0155faffec8881784ebc65084069749ddec2751264",
+    "historical/CLONE_AUDIT.md": "dea813fa40a5cfae616147af3231b67dad167fdaec807e56953ae9d1db013e86",
+    "historical/TEARDOWN.md": "9a862968a71c5a17503b3a79ce41fda41a3948ef947b2002151c7afc78263520",
+    "assets/build/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
+    "assets/build/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
+    "assets/examples/models/gltf/LittlestTokyo.glb": "8375c2aa6808e28ad1cb9c0d43e1513f57ffd7865244bf66bbbd5bb0e907e06d",
+    "assets/examples/jsm/objects/Sky.js": "34121b60a3bd9adc004a5a637f6135e9d2b72757eeb9e476ae1988fe2db6a9fb",
+    "assets/examples/jsm/utils/SkeletonUtils.js": "b1632a703206c3d830de9fcbe515696770d04b71a15ee6b50afa6d2c3298c86f",
+    "assets/examples/jsm/utils/BufferGeometryUtils.js": "9fb63427ce6641fa14fd0baff9cc4d1b5f9c3d85fd084bf2e90e803c44ec1797",
+    "assets/examples/jsm/libs/stats.module.js": "2c71a2f70e89c69e46c2e285fb171bac3dcfd498a85400e94ad5aaf6044ffc06",
+    "assets/examples/jsm/controls/OrbitControls.js": "3d79d07ecb686b4e5d93232eedab255331c1beef711e13164eaa1f68655a5f2b",
+    "assets/examples/jsm/loaders/GLTFLoader.js": "131c0f78c01d19368ae495caa65b3adaa10487810a36a05bb5901b769a35ac16",
+    "assets/examples/jsm/loaders/DRACOLoader.js": "fdafdf4aa11bbc65d89adb338efd844bedf94073702f9049240ff1f1ea48ad5f",
+    "assets/examples/jsm/libs/draco/gltf/draco_decoder.wasm": "a680d927bed9cb864ddbd63521868891af2bfbe755092761b4837487618df8ac",
+    "assets/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js": "8bb2952d2ba7d67e1414f8df819410cb0434a666be53f671fff75f68843d76f6"
+  }
+}

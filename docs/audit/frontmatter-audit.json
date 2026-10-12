@@ -1,0 +1,1454 @@
+{
+  "scope": "YAML parsing and required fields only; extra fields are preserved, not asserted portable",
+  "checked": 118,
+  "errors": [],
+  "results": [
+    {
+      "entry": "skills/audio/ai-music-album/SKILL.md",
+      "name": "ai-music-album",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/audio/speech/SKILL.md",
+      "name": "speech",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/audio/venice-audio-music/SKILL.md",
+      "name": "venice-audio-music",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/audio/venice-audio-speech/SKILL.md",
+      "name": "venice-audio-speech",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/deck/deck-guizang-editorial/SKILL.md",
+      "name": "deck-guizang-editorial",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/deck/deck-open-slide-canvas/SKILL.md",
+      "name": "deck-open-slide-canvas",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/deck/deck-swiss-international/SKILL.md",
+      "name": "deck-swiss-international",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/deck/frontend-slides/SKILL.md",
+      "name": "frontend-slides",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/deck/ppt-keynote/SKILL.md",
+      "name": "ppt-keynote",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/deck/pptx-generator/SKILL.md",
+      "name": "pptx-generator",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design/brand-extract/SKILL.md",
+      "name": "brand-extract",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/ad-creative/SKILL.md",
+      "name": "ad-creative",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/apple-hig/SKILL.md",
+      "name": "apple-hig",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/brainstorming/SKILL.md",
+      "name": "brainstorming",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/brand-guidelines/SKILL.md",
+      "name": "brand-guidelines",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/color-expert/SKILL.md",
+      "name": "color-expert",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/copywriting/SKILL.md",
+      "name": "copywriting",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/creative-director/SKILL.md",
+      "name": "creative-director",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/design-brief/SKILL.md",
+      "name": "design-brief",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/design-consultation/SKILL.md",
+      "name": "design-consultation",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/design-review/SKILL.md",
+      "name": "design-review",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/marketing-psychology/SKILL.md",
+      "name": "marketing-psychology",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/paywall-upgrade-cro/SKILL.md",
+      "name": "paywall-upgrade-cro",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/plan-design-review/SKILL.md",
+      "name": "plan-design-review",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/platform-design/SKILL.md",
+      "name": "platform-design",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/reference-design-contract/SKILL.md",
+      "name": "reference-design-contract",
+      "description_present": true,
+      "extra_fields": [
+        "en_name",
+        "od",
+        "triggers",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/design-system/stitch-skill/SKILL.md",
+      "name": "stitch-design-taste",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/swiftui-design/SKILL.md",
+      "name": "swiftui-design",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/theme-factory/SKILL.md",
+      "name": "theme-factory",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/ui-skills/SKILL.md",
+      "name": "ui-skills",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/ui-ux-pro-max/SKILL.md",
+      "name": "ui-ux-pro-max",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/design-system/web-design-guidelines/SKILL.md",
+      "name": "web-design-guidelines",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/algorithmic-art/SKILL.md",
+      "name": "algorithmic-art",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/brandkit/SKILL.md",
+      "name": "brandkit",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/canvas-design/SKILL.md",
+      "name": "canvas-design",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/ecommerce-image-workflow/SKILL.md",
+      "name": "ecommerce-image-workflow",
+      "description_present": true,
+      "extra_fields": [
+        "en_name",
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/gif-sticker-maker/SKILL.md",
+      "name": "gif-sticker-maker",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/hatch-pet/SKILL.md",
+      "name": "hatch-pet",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/imagegen-frontend-mobile/SKILL.md",
+      "name": "imagegen-frontend-mobile",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/imagegen-frontend-web/SKILL.md",
+      "name": "imagegen-frontend-web",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/replicate/SKILL.md",
+      "name": "replicate",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/screenshot/SKILL.md",
+      "name": "screenshot",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/slack-gif-creator/SKILL.md",
+      "name": "slack-gif-creator",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/venice-image-edit/SKILL.md",
+      "name": "venice-image-edit",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/image/venice-image-generate/SKILL.md",
+      "name": "venice-image-generate",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/agent-browser/SKILL.md",
+      "name": "agent-browser",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/article-magazine/SKILL.md",
+      "name": "article-magazine",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/brutalist-skill/SKILL.md",
+      "name": "industrial-brutalist-ui",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/card-twitter/SKILL.md",
+      "name": "card-twitter",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_tagline",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/card-xiaohongshu/SKILL.md",
+      "name": "card-xiaohongshu",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/d3-visualization/SKILL.md",
+      "name": "d3-visualization",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/data-report/SKILL.md",
+      "name": "data-report",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/doc-kami-parchment/SKILL.md",
+      "name": "doc-kami-parchment",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/emil-design-eng/SKILL.md",
+      "name": "emil-design-eng",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/faq-page/SKILL.md",
+      "name": "faq-page",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/flutter-animating-apps/SKILL.md",
+      "name": "flutter-animating-apps",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/frontend-design/SKILL.md",
+      "name": "frontend-design",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/frontend-dev/SKILL.md",
+      "name": "frontend-dev",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gpt-tasteskill/SKILL.md",
+      "name": "gpt-taste",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-core/SKILL.md",
+      "name": "gsap-core",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-frameworks/SKILL.md",
+      "name": "gsap-frameworks",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-performance/SKILL.md",
+      "name": "gsap-performance",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-plugins/SKILL.md",
+      "name": "gsap-plugins",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-react/SKILL.md",
+      "name": "gsap-react",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-scrolltrigger/SKILL.md",
+      "name": "gsap-scrolltrigger",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-timeline/SKILL.md",
+      "name": "gsap-timeline",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/gsap-utils/SKILL.md",
+      "name": "gsap-utils",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/hand-drawn-diagrams/SKILL.md",
+      "name": "hand-drawn-diagrams",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/image-to-code-skill/SKILL.md",
+      "name": "image-to-code",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/impeccable-design-polish/SKILL.md",
+      "name": "impeccable-design-polish",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/login-flow/SKILL.md",
+      "name": "login-flow",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/minimalist-skill/SKILL.md",
+      "name": "minimalist-ui",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/minimax-docx/SKILL.md",
+      "name": "minimax-docx",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/minimax-pdf/SKILL.md",
+      "name": "minimax-pdf",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/mockup-device-3d/SKILL.md",
+      "name": "mockup-device-3d",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/output-skill/SKILL.md",
+      "name": "full-output-enforcement",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/poster-hero/SKILL.md",
+      "name": "poster-hero",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_tagline",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/redesign-skill/SKILL.md",
+      "name": "redesign-existing-projects",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/release-notes-one-pager/SKILL.md",
+      "name": "release-notes-one-pager",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/research-decision-room/SKILL.md",
+      "name": "research-decision-room",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/resume-modern/SKILL.md",
+      "name": "resume-modern",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_tagline",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/review-animations/SKILL.md",
+      "name": "review-animations",
+      "description_present": true,
+      "extra_fields": [
+        "disable-model-invocation",
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/shader-dev/SKILL.md",
+      "name": "shader-dev",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/social-reddit-card/SKILL.md",
+      "name": "social-reddit-card",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/social-spotify-card/SKILL.md",
+      "name": "social-spotify-card",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/social-x-post-card/SKILL.md",
+      "name": "social-x-post-card",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/soft-skill/SKILL.md",
+      "name": "high-end-visual-design",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/taste-skill/SKILL.md",
+      "name": "design-taste-frontend",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/taste-skill-v1/SKILL.md",
+      "name": "design-taste-frontend-v1",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/web-artifacts-builder/SKILL.md",
+      "name": "web-artifacts-builder",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/prototype/web-clone/SKILL.md",
+      "name": "web-clone",
+      "description_present": true,
+      "extra_fields": [
+        "en_name",
+        "od",
+        "triggers",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/prototype/writing-guidelines/SKILL.md",
+      "name": "writing-guidelines",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/8-bit-orbit-video-template/SKILL.md",
+      "name": "8-bit-orbit-video-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/after-hours-editorial-template/SKILL.md",
+      "name": "after-hours-editorial-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/digits-fintech-swiss-template/SKILL.md",
+      "name": "digits-fintech-swiss-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/editorial-burgundy-principles-template/SKILL.md",
+      "name": "editorial-burgundy-principles-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/field-notes-editorial-template/SKILL.md",
+      "name": "field-notes-editorial-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/html-ppt-retro-quarterly-review/SKILL.md",
+      "name": "html-ppt-retro-quarterly-review",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/swiss-creative-mode-template/SKILL.md",
+      "name": "swiss-creative-mode-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/swiss-user-research-video-template/SKILL.md",
+      "name": "swiss-user-research-video-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/template/weread-year-in-review-video-template/SKILL.md",
+      "name": "weread-year-in-review-video-template",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/utility/chat-motion-overlay/SKILL.md",
+      "name": "chat-motion-overlay",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/utility/export-download-debugging/SKILL.md",
+      "name": "export-download-debugging",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/utility/library-curator/SKILL.md",
+      "name": "library-curator",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/utility/od-next-media-inputs/SKILL.md",
+      "name": "od-next-media-inputs",
+      "description_present": true,
+      "extra_fields": [
+        "en_name",
+        "od",
+        "triggers",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/utility/pptx-html-fidelity-audit/SKILL.md",
+      "name": "pptx-html-fidelity-audit",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/utility/pr-feedback-quality-gate/SKILL.md",
+      "name": "pr-feedback-quality-gate",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-data-chart-nyt/SKILL.md",
+      "name": "frame-data-chart-nyt",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-flowchart-sticky/SKILL.md",
+      "name": "frame-flowchart-sticky",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-glitch-title/SKILL.md",
+      "name": "frame-glitch-title",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-light-leak-cinema/SKILL.md",
+      "name": "frame-light-leak-cinema",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-liquid-bg-hero/SKILL.md",
+      "name": "frame-liquid-bg-hero",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-logo-outro/SKILL.md",
+      "name": "frame-logo-outro",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/frame-macos-notification/SKILL.md",
+      "name": "frame-macos-notification",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/venice-video/SKILL.md",
+      "name": "venice-video",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    },
+    {
+      "entry": "skills/video/vfx-text-cursor/SKILL.md",
+      "name": "vfx-text-cursor",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "featured",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/video-hyperframes/SKILL.md",
+      "name": "video-hyperframes",
+      "description_present": true,
+      "extra_fields": [
+        "aspect_hint",
+        "category",
+        "emoji",
+        "en_description",
+        "en_name",
+        "example_desc",
+        "example_format",
+        "example_id",
+        "example_name",
+        "example_source_label",
+        "example_source_url",
+        "example_tagline",
+        "od",
+        "recommended",
+        "scenario",
+        "tags",
+        "zh_description",
+        "zh_name"
+      ]
+    },
+    {
+      "entry": "skills/video/youtube-clipper/SKILL.md",
+      "name": "youtube-clipper",
+      "description_present": true,
+      "extra_fields": [
+        "od",
+        "triggers"
+      ]
+    }
+  ]
+}

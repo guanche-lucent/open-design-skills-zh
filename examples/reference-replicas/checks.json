@@ -1,0 +1,32 @@
+[
+  {
+    "name": "help",
+    "width": 1440,
+    "overflow": false
+  },
+  {
+    "name": "help",
+    "width": 390,
+    "overflow": false
+  },
+  {
+    "name": "resume",
+    "width": 1440,
+    "overflow": false
+  },
+  {
+    "name": "resume",
+    "width": 390,
+    "overflow": false
+  },
+  {
+    "name": "design",
+    "width": 1440,
+    "overflow": false
+  },
+  {
+    "name": "design",
+    "width": 390,
+    "overflow": false
+  }
+]

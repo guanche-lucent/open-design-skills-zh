@@ -1,0 +1,30 @@
+{
+  "commit": "89e64d813bb1c7a11519b3f668f011f7017637d7",
+  "tree_truncated": false,
+  "records": [
+    {
+      "path": "plugins/_official/examples/resume-modern/SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/plugins/_official/examples/resume-modern/SKILL.md",
+      "sha256": "87f27f712a52817e64b8404d41425df68118f1fba6b95a326a201e04a27b6dd8",
+      "matches_local_skill": true
+    },
+    {
+      "path": "skills/faq-page/SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/faq-page/SKILL.md",
+      "sha256": "2538f077fce82ad655954916b8d9d20b6e9b647d115430580993b65ab86fd38a",
+      "matches_local_skill": true
+    },
+    {
+      "path": "skills/reference-design-contract/SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/reference-design-contract/SKILL.md",
+      "sha256": "56d5e0c077263cd30f586ffa763fec5caebdee2821fa9653e86c3376b937e222",
+      "matches_local_skill": true
+    },
+    {
+      "path": "skills/resume-modern/SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/resume-modern/SKILL.md",
+      "sha256": "87f27f712a52817e64b8404d41425df68118f1fba6b95a326a201e04a27b6dd8",
+      "matches_local_skill": true
+    }
+  ]
+}

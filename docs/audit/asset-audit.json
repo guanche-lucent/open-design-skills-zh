@@ -1,0 +1,834 @@
+{
+  "date": "2026-10-12",
+  "counts": {
+    "bundled_content": 77,
+    "external_link": 45,
+    "stub": 41
+  },
+  "errors": [],
+  "source_changes": [],
+  "findings": {
+    "agent-browser": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "output-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "article-magazine": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "doc": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "doc-kami-parchment": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "docx": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "minimax-docx": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "minimax-pdf": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "pdf": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "release-notes-one-pager": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 3
+    },
+    "resume-modern": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "writing-guidelines": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "artifacts-builder": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "faq-page": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "frontend-design": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "frontend-dev": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "login-flow": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "web-artifacts-builder": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "brutalist-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "emil-design-eng": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gpt-tasteskill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "impeccable-design-polish": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "minimalist-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "soft-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "taste-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "taste-skill-v1": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "card-twitter": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "card-xiaohongshu": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "poster-hero": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "social-reddit-card": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "social-spotify-card": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "social-x-post-card": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "d3-visualization": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "data-report": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "hand-drawn-diagrams": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "research-decision-room": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 3
+    },
+    "emilkowalski-motion": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "flutter-animating-apps": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-core": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-frameworks": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-performance": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-plugins": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-react": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-scrolltrigger": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-timeline": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "gsap-utils": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "review-animations": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "shader-dev": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "threejs": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "image-to-code-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "redesign-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "web-clone": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 9
+    },
+    "mockup-device-3d": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "ad-creative": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "competitive-ads-extractor": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "copywriting": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "domain-name-brainstormer": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "marketing-psychology": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "paywall-upgrade-cro": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "apple-hig": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "brand-guidelines": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "color-expert": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "platform-design": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "shadcn-ui": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "swiftui-design": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "theme-factory": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "ui-skills": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "ui-ux-pro-max": {
+      "status": "needs_review",
+      "missing_references": [
+        {
+          "file": "skills/design-system/ui-ux-pro-max/SKILL.md",
+          "line": 31,
+          "target": "scripts/search.py",
+          "context": "`data` CSVs, the `scripts/search.py` helper, reference material, templates, and"
+        }
+      ],
+      "scanned_documents": 1
+    },
+    "web-design-guidelines": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "wpds": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "brainstorming": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "creative-director": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "design-consultation": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "design-review": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "frontend-skill": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "plan-design-review": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "design-brief": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "design-md": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "enhance-prompt": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "reference-design-contract": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "stitch-loop": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "stitch-skill": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "figma-code-connect-components": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "figma-create-design-system-rules": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "figma-create-new-file": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "figma-generate-design": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "figma-generate-library": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "figma-implement-design": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "figma-use": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "algorithmic-art": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "canvas-design": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "hatch-pet": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 5
+    },
+    "slack-gif-creator": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "brandkit": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "ecommerce-image-workflow": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "imagegen-frontend-mobile": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "imagegen-frontend-web": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "fal-3d": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-generate": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-image-edit": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-realtime": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-train": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-tryon": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "gif-sticker-maker": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "imagegen": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "imagen": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "pixelbin-media": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "replicate": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "venice-image-edit": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "venice-image-generate": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "fal-restore": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-upscale": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-vision": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "image-enhancer": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "full-page-screenshot": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "screenshot": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "screenshots-marketing": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-kling-o3": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-lip-sync": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "fal-video-edit": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "sora": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "venice-video": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "frame-data-chart-nyt": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frame-flowchart-sticky": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frame-glitch-title": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frame-light-leak-cinema": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frame-liquid-bg-hero": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frame-logo-outro": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frame-macos-notification": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "remotion": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "vfx-text-cursor": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "video-hyperframes": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "video-downloader": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "youtube-clipper": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "deck-guizang-editorial": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "deck-open-slide-canvas": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "deck-swiss-international": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "frontend-slides": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "ppt-keynote": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "nanobanana-ppt": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "pptx": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "pptx-generator": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "slides": {
+      "status": "not_applicable",
+      "missing_references": [],
+      "scanned_documents": 0
+    },
+    "8-bit-orbit-video-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "after-hours-editorial-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "swiss-user-research-video-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "weread-year-in-review-video-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "digits-fintech-swiss-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "editorial-burgundy-principles-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "html-ppt-retro-quarterly-review": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "swiss-creative-mode-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "field-notes-editorial-template": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 2
+    },
+    "chat-motion-overlay": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 7
+    },
+    "export-download-debugging": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "pptx-html-fidelity-audit": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 4
+    },
+    "pr-feedback-quality-gate": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "library-curator": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "od-next-media-inputs": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "ai-music-album": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "venice-audio-music": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "speech": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "venice-audio-speech": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    },
+    "brand-extract": {
+      "status": "no_missing_in_scanned_patterns",
+      "missing_references": [],
+      "scanned_documents": 1
+    }
+  }
+}

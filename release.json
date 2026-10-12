@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0-preview.2",
+  "status": "explicit_path_trial_preview",
+  "skills": {
+    "faq-page": {
+      "source": "skills/prototype/faq-page",
+      "files": {
+        "example.html": "f41b39fe2a512f81745aca91b8e0a26dc2c668f58985f385253c58a7e7a85ce6",
+        "SKILL.md": "2538f077fce82ad655954916b8d9d20b6e9b647d115430580993b65ab86fd38a"
+      },
+      "validation": "explicit_path_trial_passed"
+    },
+    "resume-modern": {
+      "source": "skills/prototype/resume-modern",
+      "files": {
+        "example.md": "5dacc37f3e642114e374d65b2200c3c98302aa22f91fb673ab20b1c6adbe8edf",
+        "example.html": "bfee761bcfa72a0b84ae6ba95ca4605c3542d3da42d234d16085bdc6c24fe464",
+        "SKILL.md": "87f27f712a52817e64b8404d41425df68118f1fba6b95a326a201e04a27b6dd8"
+      },
+      "validation": "explicit_path_trial_passed"
+    },
+    "reference-design-contract": {
+      "source": "skills/design-system/reference-design-contract",
+      "files": {
+        "example.html": "f0dd9db227e079d9f435d8c8e83c07980ff5756153f184ecb4ff5b4a2993b26b",
+        "SKILL.md": "56d5e0c077263cd30f586ffa763fec5caebdee2821fa9653e86c3376b937e222",
+        "references/checklist.md": "45b0fb2dc33a82c192f37e2454f049f08729e5abe04cf7c3bc978acc6048b599"
+      },
+      "validation": "explicit_path_trial_passed"
+    }
+  },
+  "limitations": [
+    "只验证当前 Codex 会话显式读取执行，自动发现未测",
+    "Claude Code 仅验证安装目录，不验证执行",
+    "需自行具备 Agent 使用权限；安装器需要 Python 3.9+"
+  ]
+}

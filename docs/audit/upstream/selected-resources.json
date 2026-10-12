@@ -1,0 +1,53 @@
+{
+  "commit": "89e64d813bb1c7a11519b3f668f011f7017637d7",
+  "files": [
+    {
+      "skill": "faq-page",
+      "file": "example.html",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/faq-page/example.html",
+      "matches_local": true
+    },
+    {
+      "skill": "faq-page",
+      "file": "SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/faq-page/SKILL.md",
+      "matches_local": true
+    },
+    {
+      "skill": "resume-modern",
+      "file": "example.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/resume-modern/example.md",
+      "matches_local": true
+    },
+    {
+      "skill": "resume-modern",
+      "file": "example.html",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/resume-modern/example.html",
+      "matches_local": true
+    },
+    {
+      "skill": "resume-modern",
+      "file": "SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/resume-modern/SKILL.md",
+      "matches_local": true
+    },
+    {
+      "skill": "reference-design-contract",
+      "file": "example.html",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/reference-design-contract/example.html",
+      "matches_local": true
+    },
+    {
+      "skill": "reference-design-contract",
+      "file": "SKILL.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/reference-design-contract/SKILL.md",
+      "matches_local": true
+    },
+    {
+      "skill": "reference-design-contract",
+      "file": "references/checklist.md",
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/89e64d813bb1c7a11519b3f668f011f7017637d7/skills/reference-design-contract/references/checklist.md",
+      "matches_local": true
+    }
+  ]
+}

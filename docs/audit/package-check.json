@@ -1,0 +1,12 @@
+{
+  "archive": "open-design-skills-zh-0.1.0-preview.1.zip",
+  "sha256": "2c2ea8032554ae0156c92828d8b2ca36fb6775fa1f5c4df8339f20e51056e6f8",
+  "members": 69,
+  "checksums": "passed after documentation update",
+  "navigation_links": "passed after documentation update",
+  "fresh_extract_three_skill_install": "passed",
+  "installer_tests": "7 passed",
+  "scope": "filesystem installation only; independent Agent discovery not tested",
+  "zip_entries": 52,
+  "installer_unchanged_since_fresh_extract_test": true
+}
